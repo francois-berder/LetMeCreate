@@ -2,7 +2,7 @@
  * This example shows how to use the UNI Hall Click wrapper of the LetMeCreate
  * library.
  *
- * It attaches a callback that prints hello everytime it starts/stops detecting
+ * It attaches a callback that prints hello every time it starts/stops detecting
  * the north pole of a magnet during 10 seconds.
  *
  * The UNI Hall Click must be inserted in Mikrobus 1 before running the program.

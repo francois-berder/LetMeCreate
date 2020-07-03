@@ -123,7 +123,7 @@ static void convert_received_data(char *dst, char *src, uint32_t num)
  *
  * @param[out] line
  * @param[in] max_characters Size of buffer @p line
- * @return 0 if successfull -1 otherwise
+ * @return 0 if successful -1 otherwise
  */
 static int receive_line(char *line, uint32_t max_characters)
 {
